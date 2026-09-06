@@ -1,7 +1,7 @@
 # AI Tutor Model Service
 
 A small Python service that wraps the Gemini API to power a multi-subject AI
-tutor ("Ada"). It teaches: English Language, Oral English, Written English,
+tutor ("Paul"). It teaches: English Language, Oral English, Written English,
 Public Speaking & Presentation, Igbo Language, and Igbo Culture — all through
 a single chat-style endpoint.
 
